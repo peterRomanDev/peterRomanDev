@@ -17,6 +17,7 @@
 * Canva
 
 ## Connect With Me
+* [Portfolio Website](https://peterroman.codes/)
 * [GitHub](https://github.com/peterRomanDev)
 * [LinkedIn](https://www.linkedin.com/in/proman2/)
 
