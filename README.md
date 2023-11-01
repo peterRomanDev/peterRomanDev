@@ -1,8 +1,8 @@
+# Welcome To My Profile!
+
 ![Peter Roman banner](images/readme/peter-roman-banner.png)
 
-# Peter Roman
-
-## My tech stack
+## My Tech Stack
 * JavaScript
 * Jest
 * HTML, CSS
@@ -11,12 +11,12 @@
 * ChatGPT
 * WordPress, Elementor
 
-## Design software I work with
+## Design Software I Work With
 * Figma
 * Affinity Designer
 * Canva
 
-## Connect with me
+## Connect With Me
 * [GitHub](https://github.com/peterRomanDev)
 * [LinkedIn](https://www.linkedin.com/in/proman2/)
 
