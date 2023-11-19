@@ -8,7 +8,6 @@
 * HTML, CSS
 * Bootstrap
 * Git
-* ChatGPT
 * WordPress, Elementor
 
 ## Design Software I Work With
