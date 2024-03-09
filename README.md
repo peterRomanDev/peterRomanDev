@@ -4,10 +4,18 @@
 
 ## My Tech Stack
 * JavaScript
-* Jest
-* HTML, CSS
+* TypeScript
+* CSS
+* Tailwind CSS
 * Bootstrap
+* HTML
 * Git
+* GitHub
+* npm
+* Webpack
+* Babel
+* Jest
+* ESLint
 * WordPress, Elementor
 
 ## Design Software I Work With
