@@ -3,8 +3,9 @@
 ![Peter Roman banner](images/readme/peter-roman-banner.png)
 
 ## My Tech Stack
-* JavaScript
+* React
 * TypeScript
+* JavaScript
 * CSS
 * Tailwind CSS
 * Bootstrap
