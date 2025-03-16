@@ -6,23 +6,31 @@
 * React
 * TypeScript
 * JavaScript
-* CSS
+* Next.js
+* Node.js
+* Vercel
 * Tailwind CSS
 * Bootstrap
+* CSS
 * HTML
 * Git
 * GitHub
-* npm
-* Webpack
-* Babel
 * Jest
 * ESLint
+* Prettier
 * WordPress, Elementor
 
 ## Design Software I Work With
 * Figma
 * Affinity Designer
 * Canva
+
+## Tools for Project Management and Data Analysis I Use
+* Google Sheets
+* Notion
+* Trello
+* Monday.com
+* Slack
 
 ## Connect With Me
 * [Portfolio Website](https://peterroman.codes/)
