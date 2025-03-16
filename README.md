@@ -1,6 +1,6 @@
 # Welcome To My Profile!
 
-![Peter Roman banner](images/readme/peter-roman-banner.png)
+![Peter Roman banner](images/readme/peter-roman-banner.jpg)
 
 ## My Tech Stack
 * React
